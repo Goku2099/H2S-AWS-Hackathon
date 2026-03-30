@@ -171,7 +171,7 @@ The SKLG Career Navigator is an AI-powered platform designed to guide high schoo
 2. WHEN displaying the timeline, THE System SHALL show past, current, and future milestones with distinct visual styles
 3. THE System SHALL indicate estimated dates for future milestones based on current progress
 4. WHEN a student clicks a timeline milestone, THE System SHALL display detailed information and resources
-
+5. THE System SHALL support zooming and scrolling for timelines spanning multiple years
 
 ### Requirement 13: Route Comparison
 
